@@ -8,8 +8,10 @@ Enter the name of a restaurant you enjoy going to, their signature dish, their w
 
 # Setup:
 
-1) npm install
-2) npm run dev
-3) can be viewed on http://localhost:3000/
+1) git clone
+2) cd into this repository
+3) npm install
+4) npm run dev
+5) can be viewed on http://localhost:3000/
 
 
